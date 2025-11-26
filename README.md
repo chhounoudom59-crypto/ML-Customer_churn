@@ -1,10 +1,5 @@
 ﻿# ML-Customer_churn
 
- Sure Dom! I will write a **full, modern, stylish README** for your project — with **many icons, professional structure, and clean formatting**.
-Here is your **ready-to-use README.md** ⬇️
-
----
-
 # 📊 **Customer Churn Prediction Project**
 
 A complete machine learning project to analyze customer behavior and predict which customers are likely to leave (churn).
@@ -192,6 +187,7 @@ This project is under the **MIT License** — free for use and modification.
 📧 Email: [chhounoudom59@gmail.com](mailto:chhounoudom59@gmail.com)
 🌐 GitHub: [https://github.com/chhounoudom59-crypto](https://github.com/chhounoudom59-crypto)
 🚀 Passionate about Data Science & Machine Learning
+
 
 
 
